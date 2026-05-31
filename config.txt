@@ -1,0 +1,8 @@
+client = 127.0.0.1 : 9000
+local_dns_server = 127.0.0.1 : 9001
+netplus_web_server = 127.0.0.1 : 9002
+netplus_dns_server = 127.0.0.1 : 9003
+abCDN_dns_server = 127.0.0.1 : 9004
+HQ_server = 127.0.0.1 : 9010
+MQ_server = 127.0.0.1 : 9011
+LQ_server = 127.0.0.1 : 9012
